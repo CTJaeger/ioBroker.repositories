@@ -625,6 +625,11 @@
     "icon": "https://raw.githubusercontent.com/ctjaeger/ioBroker.sma-em/master/admin/sma-em.png",
     "type": "energy"
   },
+  "snmp": {
+    "meta": "https://raw.githubusercontent.com/ctjaeger/ioBroker.snmp/master/io-package.json",
+    "icon": "https://raw.githubusercontent.com/ctjaeger/ioBroker.snmp/master/admin/snmp.png",
+    "type": "infrastructure"
+  },
   "socketio": {
     "meta": "https://raw.githubusercontent.com/ioBroker/ioBroker.socketio/master/io-package.json",
     "icon": "https://raw.githubusercontent.com/ioBroker/ioBroker.socketio/master/admin/socketio.png",
